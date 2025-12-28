@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-df = pd.read_csv("C:\\Users\\natha\\OneDrive\\Desktop\\codigos\\curso santander\\usuarios.csv")
+df = pd.read_csv("usuarios.csv")
 user_ids = df['ID'].tolist()
 
 
@@ -18,3 +18,4 @@ print(tabela)
 
 
 tabela.to_csv("usuarios_novo.csv", index=False)
+
