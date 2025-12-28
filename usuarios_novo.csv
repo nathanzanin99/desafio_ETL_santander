@@ -1,0 +1,4 @@
+ID,Nome,Conta,Saldo,Cartão,Limite,Status
+1,Paulo,1,500,xxxx-xxxx-xxxx-2030,1000,Negado
+2,Jorge,2,1000,xxxx-xxxx-xxxx-4896,3000,Concedido
+3,Giovana,3,1500,xxxx-xxxx-xxxx-9069,4500,Concedido
